@@ -21,5 +21,5 @@ Iam an experienced Language Instructor with a strong background in teaching, tra
 ### Experience
 - **Language Instructor (2007-present):** Department of Official Languages, Colombo (Part-time)
 - **Language Instructor (2007-2009):** Nippon Sri Lanka
-- Conducted numerous training programs in government institutions, technical colleges, and divisional secretariats in Sri Lanka.
+- Conducted number of training programs in government institutions, technical colleges, and divisional secretariats in Sri Lanka.
 
