@@ -1,7 +1,7 @@
 # MyDigitalCV
 
 
-Iam an experienced Language Instructor with a strong background in teaching, training, and language development. I have been working in the field of language instruction since 2007, providing training to government servants,school students, and private officers in Sri Lanka.I hold a degree in Arts at the University of Peradeniya and have participated in various extracurricular and professional development activities.
+I am an experienced Language Instructor with a strong background in teaching, training, and language development. I have been working in the field of language instruction since 2007, providing training to government servants,school students, and private officers in Sri Lanka.I hold a degree in Arts at the University of Peradeniya and have participated in various extra curriculam activities and professional development activities.
 
 ### Skills
 - **Languages:** Tamil (native), English, Sinhala
@@ -14,6 +14,7 @@ Iam an experienced Language Instructor with a strong background in teaching, tra
 - Recognized for excellence in karate, athletics, and other extracurricular activities.
 
 ### Education
+- **Engineering in Industrial Management (Reading):** University of Karelia in Finland
 - **General Degree in Arts (2021-2023):** University of Peradeniya, Sri Lanka
 - **G.C.E. (A/L) Examination (2005):** Tamil ,Logic and scientific method,Hindusium.
 - **English Proficiency Courses:** Completed multiple courses in spoken and written English from various institutes in Kandy.
