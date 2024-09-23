@@ -1,6 +1,6 @@
 # MyDigitalCV
 
-### Summary
+
 Perumal Selvarajah is an experienced Language Instructor with a strong background in teaching, training, and language development. He has been working in the field of language instruction since 2007, providing training to government servants, students, and officers in Sri Lanka. He holds a degree in Arts from the University of Peradeniya and has participated in various extracurricular and professional development activities.
 
 ### Skills
